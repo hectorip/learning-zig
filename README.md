@@ -1,2 +1,3 @@
-# learning-zig
+# Learning Zig
+
 Exercises learning zig
